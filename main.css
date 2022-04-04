@@ -1,0 +1,31 @@
+
+.head {
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  height: 30px; 
+  align-items: center;
+  color: white;
+  font-weight: bold;
+	margin: auto; 
+}
+header {
+  background-color: transparent;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.Container {
+  margin: 0 auto;
+  box-sizing: content-box;
+  width: 80vw;
+  height: 70vh;
+  display: flex;
+  border: 1px solid lightgrey;
+}
+
+.leftblock {
+  width: 700px;
+  border: 1px solid lightgrey;
+}
