@@ -16,6 +16,11 @@ header {
   justify-content: space-around;
   align-items: center;
 }
+.Catalog {
+  background-color: orange;
+  color: white;
+  border-radius: 10px;
+}
 .Container {
   margin: 0 auto;
   box-sizing: content-box;
